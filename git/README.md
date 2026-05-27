@@ -1,4 +1,4 @@
-# git 2.54.0 for ReadyNAS SPARC V8
+# git 2.54.0 for ReadyNAS Duo V1 (SPARC)
 
 See the [top-level README](../README.md) for toolchain setup and libc.a patching.
 Apply all patches in [`../patches/`](../patches/) before building.
