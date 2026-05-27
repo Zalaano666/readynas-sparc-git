@@ -8,7 +8,7 @@ The stock firmware ships with git 2.21.0 (2019). This builds git **2.54.0**.
 
 ## Quick install (pre-built binary)
 
-Download the tarball from the [Releases](../../releases) page and extract it
+Download the tarball from the [Releases](https://github.com/Zalaano666/readynas-sparc-git/releases) page and extract it
 on your NAS:
 
 ```sh
